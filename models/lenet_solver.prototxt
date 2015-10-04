@@ -1,5 +1,5 @@
 # The train/test net protocol buffer definition
-net: "/home/ubuntu/notebooks/lenet_train.prototxt"
+net: "/home/ubuntu/ods_deeplearning_tutorial/lenet_train.prototxt"
 
 # Parameters of the learning process
 # The base learning rate, momentum and the weight decay of the network.
